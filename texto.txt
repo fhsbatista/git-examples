@@ -11,3 +11,9 @@ Fusca
 Celular
 Garrafa
 Monitor
+
+#Números
+Cinquenta
+Sessenta
+Setenta
+Setecentos
