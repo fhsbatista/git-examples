@@ -1,0 +1,13 @@
+#Cores
+Vermelho
+Azul
+Preto
+Verde
+Branco
+
+#Palavras
+Carro
+Fusca
+Celular
+Garrafa
+Monitor
